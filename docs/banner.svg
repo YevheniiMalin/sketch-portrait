@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Stroke — Photo to pencil sketch</title>
+  <desc id="desc">A browser-based creative tool. Choose an image, find your pencil style, and save your sketch. Your photos stay on your device.</desc>
+  <rect width="1280" height="440" rx="16" fill="#f3f1ea"/>
+  <path d="M56 104H1224M56 359H1224" stroke="#dcd7cb"/>
+  <rect x="56" y="40" width="36" height="36" rx="5" fill="#b94d31"/>
+  <path d="M61 71L87 45" stroke="#fffdf7" stroke-width="2.5"/>
+  <text x="106" y="70" font-family="Georgia,serif" font-size="40" font-weight="bold" fill="#302f2b">stroke<tspan fill="#b94d31">.</tspan></text>
+  <text x="1224" y="63" text-anchor="end" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#787569">PHOTO → PENCIL</text>
+  <text x="56" y="185" font-family="Georgia,serif" font-size="62" fill="#302f2b">A fresh perspective.</text>
+  <text x="56" y="260" font-family="Georgia,serif" font-size="62" font-style="italic" fill="#b94d31">In every stroke.</text>
+  <text x="59" y="310" font-family="Arial,sans-serif" font-size="18" fill="#77756c">Turn your photos into pencil sketches, right in your browser.</text>
+  <path d="M881 146V305" stroke="#dcd7cb"/>
+  <g font-family="Arial,sans-serif" font-size="18" fill="#302f2b">
+    <text x="925" y="178"><tspan fill="#b94d31" font-size="13">01</tspan><tspan dx="18">Choose an image</tspan></text>
+    <text x="925" y="235"><tspan fill="#b94d31" font-size="13">02</tspan><tspan dx="18">Find your pencil style</tspan></text>
+    <text x="925" y="292"><tspan fill="#b94d31" font-size="13">03</tspan><tspan dx="18">Save your sketch</tspan></text>
+  </g>
+  <text x="56" y="405" font-family="Arial,sans-serif" font-size="14" fill="#6e7161">YOUR PHOTOS STAY ON YOUR DEVICE</text>
+  <text x="1224" y="405" text-anchor="end" font-family="Arial,sans-serif" font-size="14" fill="#77756c">Vanilla JavaScript · Canvas · Web Workers</text>
+</svg>
